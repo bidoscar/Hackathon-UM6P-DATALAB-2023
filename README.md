@@ -8,7 +8,7 @@ The DATALAB Store want to gain a competitive edge over their competitors and it 
 ## Winners
 
 My team (Arinze and I) came 3rd.
-Check the leadreboard using the following link
+Check the leaderboard using the following link
 
 https://www.kaggle.com/competitions/comptition-datalab/leaderboard?
 
@@ -19,5 +19,5 @@ https://www.kaggle.com/competitions/comptition-datalab/leaderboard?
     title = {DATALAB competition},
     publisher = {Kaggle},
     year = {2023},
-    url = {https://kaggle.com/competitions/comptition-datalab}
+    url = {https://kaggle.com/competitions/comptition-datalab
 }
